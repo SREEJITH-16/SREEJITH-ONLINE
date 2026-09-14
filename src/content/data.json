@@ -144,7 +144,7 @@
   "projects": [
     {
       "id": "001",
-      "index": "01",
+      "index": "05",
       "name": "IoT People Counter",
       "description": "Embedded IoT system that detects and counts people entering a space using IR sensors. Co-authored a peer-reviewed paper on the project, published in IJARCCE (Vol. 15, Issue 4, April 2026).",
       "tech": [
@@ -154,7 +154,7 @@
         "IR Sensors"
       ],
       "github": "https://github.com/SREEJITH-16/Iot-people-counter",
-      "featured": true
+      "featured": false
     },
     {
       "id": "002",
@@ -168,7 +168,8 @@
         "Backend"
       ],
       "github": "https://github.com/SREEJITH-16/sportslog",
-      "featured": true
+      "featured": true,
+      "liveDemo": "https://sportslog.vercel.app/"
     },
     {
       "id": "003",
@@ -195,8 +196,20 @@
         "Tailwind"
       ],
       "github": "https://github.com/SREEJITH-16/Sreejith-Portfolio",
-      "liveDemo": "https://sreejith-portfolio-sandy.vercel.app",
+      "liveDemo": "https://sreejith-online.vercel.app/",
       "featured": true
+    },
+    {
+      "id": "proj-nhs95g",
+      "index": "01",
+      "name": "Tracky (Expense tracker)",
+      "description": "Tracky is a modern personal expense and budget tracking application built to make financial tracking simple, clear, and easy to use.\n\nTrack your spending, keep your expenses organized, and get a better understanding of where your money goes — all through a clean and focused experience.",
+      "tech": [
+        "CSS"
+      ],
+      "featured": true,
+      "github": "https://github.com/SREEJITH-16/tracky.git",
+      "liveDemo": "https://tracky-gold.vercel.app/"
     }
   ],
   "experience": [
