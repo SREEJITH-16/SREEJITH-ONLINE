@@ -17,7 +17,7 @@ export function About() {
           <MaskReveal className="order-2 lg:order-1">
             <div className="portrait-glow relative aspect-[4/5] w-full overflow-hidden rounded-2xl border border-border bg-surface">
               <img
-                src="/sreejith-portrait-color.jpg"
+                src="/sreejith-portrait-color.jpeg"
                 alt={`${profile.name} speaking at an event`}
                 loading="eager"
                 decoding="async"
