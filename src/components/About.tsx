@@ -19,7 +19,9 @@ export function About() {
               <img
                 src="/sreejith-portrait-color.jpg"
                 alt={`${profile.name} speaking at an event`}
-                loading="lazy"
+                loading="eager"
+                decoding="async"
+                fetchPriority="high"
                 width={1000}
                 height={1250}
                 className="absolute inset-0 h-full w-full object-cover"
