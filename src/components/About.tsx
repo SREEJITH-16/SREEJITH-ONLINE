@@ -14,7 +14,7 @@ export function About() {
         <SectionHeader index="02" eyebrow="About Me" title="More Than Just a Developer." />
 
         <div className="grid gap-12 lg:grid-cols-[0.95fr_1.05fr] lg:gap-16">
-          <MaskReveal className="order-2 lg:order-1">
+          <div className="order-2 lg:order-1">
             <div className="portrait-glow relative aspect-[4/5] w-full overflow-hidden rounded-2xl border border-border bg-surface">
               <img
                 src="/sreejith-portrait-color.jpeg"
@@ -27,7 +27,7 @@ export function About() {
                 className="absolute inset-0 h-full w-full object-cover"
               />
             </div>
-          </MaskReveal>
+          </div>
 
           <div className="order-1 lg:order-2">
             <Reveal variant="up">
