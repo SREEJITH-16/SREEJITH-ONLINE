@@ -218,7 +218,7 @@
       "id": "zoho",
       "company": "Apexplanet Pvt Ltd",
       "role": "Web development Intern",
-      "duration": "Sep 2025 — Present",
+      "duration": "Sep 2026 — Present",
       "current": true,
       "location": "Chennai, India",
       "description": "Started my professional journey as a Web development Intern at Apexplanet Pvt Ltd. Excited to learn, contribute and grow with the team.",
@@ -226,6 +226,20 @@
         "Full-Stack",
         "Problem Solving",
         "webdevelopment"
+      ]
+    },
+    {
+      "id": "exp-ogmv46",
+      "company": "Thiranex",
+      "role": "Web development intern",
+      "duration": "Sep 2026 - present",
+      "current": false,
+      "location": "Chennai, India",
+      "description": " @Thiranex – Skill Development & Future Tech.\nThis internship, running from 20th September 2026 to 19th October 2026, will allow me to work on practical projects under industry mentorship, helping me strengthen my skills in building scalable and efficient web applications.",
+      "tags": [
+        "Web development",
+        "full stack",
+        "HTML, CSS & JS"
       ]
     }
   ],
