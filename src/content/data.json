@@ -233,7 +233,7 @@
       "company": "Thiranex",
       "role": "Web development intern",
       "duration": "Sep 2026 - present",
-      "current": false,
+      "current": true,
       "location": "Chennai, India",
       "description": " @Thiranex – Skill Development & Future Tech.\nThis internship, running from 20th September 2026 to 19th October 2026, will allow me to work on practical projects under industry mentorship, helping me strengthen my skills in building scalable and efficient web applications.",
       "tags": [
