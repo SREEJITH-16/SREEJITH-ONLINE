@@ -229,6 +229,21 @@
       "featured": true,
       "liveDemo": "https://skycast-six-tau.vercel.app/",
       "github": "https://github.com/SREEJITH-16/SKY-CAST.git"
+    },
+    {
+      "id": "proj-n1gfmz",
+      "index": "07",
+      "name": "TaskFlow – Task Management App",
+      "description": "TaskFlow – Task Management App\nA modern and responsive task management application designed to help users organize and track their daily tasks efficiently. It includes task creation, priority management, due dates, search and filtering, completion tracking, and productivity statistics through a clean, user-friendly interface.",
+      "tech": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Vercel — static hosting/deployment"
+      ],
+      "featured": true,
+      "liveDemo": "https://taskflow-psi-pink.vercel.app/",
+      "github": "https://github.com/SREEJITH-16/TASK-FLOW-.git"
     }
   ],
   "experience": [
