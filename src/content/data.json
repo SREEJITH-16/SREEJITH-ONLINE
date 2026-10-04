@@ -211,6 +211,23 @@
       "featured": true,
       "github": "https://github.com/SREEJITH-16/tracky.git",
       "liveDemo": "https://tracky-gold.vercel.app/"
+    },
+    {
+      "id": "proj-q7bsaj",
+      "index": "06",
+      "name": "SkyCast",
+      "description": "SkyCast – Weather Forecast Web App  \nA modern and responsive weather application that provides real-time weather information for any city. Users can search locations or use their current location to view temperature, hourly forecasts, air conditions, and a 5-day forecast, with support for °C/°F, dark mode, favorites, and search history.",
+      "tech": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Weather API",
+        "Geolocation API",
+        "Vercel — Deployment"
+      ],
+      "featured": true,
+      "liveDemo": "https://skycast-six-tau.vercel.app/",
+      "github": "https://github.com/SREEJITH-16/SKY-CAST.git"
     }
   ],
   "experience": [
