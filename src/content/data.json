@@ -244,6 +244,31 @@
       "featured": true,
       "liveDemo": "https://taskflow-psi-pink.vercel.app/",
       "github": "https://github.com/SREEJITH-16/TASK-FLOW-.git"
+    },
+    {
+      "id": "proj-wepbd1",
+      "index": "08",
+      "name": "",
+      "description": "",
+      "tech": [],
+      "featured": true
+    },
+    {
+      "id": "proj-93xha3",
+      "index": "09",
+      "name": "NOVA – E-Commerce Website",
+      "description": "**NOVA – E-Commerce Website**  \nA modern, responsive e-commerce storefront designed to deliver a realistic online shopping experience. It features product discovery, live search, filtering and sorting, product quick view, wishlist management, an animated cart drawer, multi-step checkout, order confirmation, dark mode, and persistent browser storage with smooth UI interactions.",
+      "tech": [
+        "CSS",
+        "HTML",
+        "JavaScript",
+        "History API — client-side routing",
+        "SVG",
+        "Vercel"
+      ],
+      "featured": true,
+      "liveDemo": "https://novaecommerce-kappa.vercel.app/",
+      "github": "https://github.com/SREEJITH-16/Nova-Ecommerce.git"
     }
   ],
   "experience": [
