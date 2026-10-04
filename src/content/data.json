@@ -198,7 +198,8 @@
       ],
       "github": "https://github.com/SREEJITH-16/Sreejith-Portfolio",
       "liveDemo": "https://sreejith-online.vercel.app/",
-      "featured": true
+      "featured": true,
+      "needsContent": false
     },
     {
       "id": "proj-nhs95g",
