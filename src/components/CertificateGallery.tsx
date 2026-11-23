@@ -33,13 +33,19 @@ export function CertificateGallery() {
                 className="card-surface card-hover group flex h-full w-full flex-col overflow-hidden text-left"
               >
                 <div className="relative h-40 overflow-hidden bg-surface">
-                  {c.image && (
+                  {c.image ? (
                     <img
                       src={c.image}
                       alt={c.title}
                       loading="lazy"
                       className="h-full w-full object-cover transition-transform duration-700 group-hover:scale-105"
                     />
+                  ) : (
+                    <div className="flex h-full items-center justify-center bg-gradient-to-br from-surface to-muted text-sm text-muted-foreground">
+                      <span className="rounded-lg border border-border bg-background/70 px-4 py-2">
+                        Certificate PDF
+                      </span>
+                    </div>
                   )}
                   <div className="absolute inset-0 bg-foreground/0 transition-colors duration-300 group-hover:bg-foreground/5" />
                 </div>
@@ -77,14 +83,14 @@ export function CertificateGallery() {
         open={Boolean(active)}
         onClose={() => setActive(null)}
         labelledBy="cert-modal-title"
-        className="max-w-2xl"
+        className="max-w-5xl"
       >
         {active && (
           <div>
             {active.image && (
               <img src={active.image} alt={active.title} className="w-full rounded-t-2xl" />
             )}
-            <div className="p-7">
+            <div className="p-5 sm:p-7">
               <h3 id="cert-modal-title" className="text-xl">
                 {active.title}
               </h3>
@@ -95,14 +101,23 @@ export function CertificateGallery() {
                 {active.description}
               </p>
               {active.link && (
-                <div className="mt-6 flex flex-wrap gap-3">
-                  <a href={active.link} target="_blank" rel="noreferrer" className="btn-primary !py-2.5 !px-5 text-sm">
-                    View Certificate <ExternalLink size={14} />
-                  </a>
-                  <a href={active.link} download className="btn-outline !py-2.5 !px-5 text-sm">
-                    Download <Download size={14} />
-                  </a>
-                </div>
+                <>
+                  <div className="mt-5 overflow-hidden rounded-xl border border-border bg-white">
+                    <iframe
+                      src={`${active.link}#toolbar=1&navpanes=0`}
+                      title={`${active.title} certificate preview`}
+                      className="h-[62vh] min-h-[360px] w-full"
+                    />
+                  </div>
+                  <div className="mt-5 flex flex-wrap gap-3">
+                    <a href={active.link} target="_blank" rel="noreferrer" className="btn-primary !py-2.5 !px-5 text-sm">
+                      Open Full Certificate <ExternalLink size={14} />
+                    </a>
+                    <a href={active.link} download className="btn-outline !py-2.5 !px-5 text-sm">
+                      Download <Download size={14} />
+                    </a>
+                  </div>
+                </>
               )}
             </div>
           </div>
