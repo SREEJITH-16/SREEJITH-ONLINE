@@ -489,7 +489,8 @@
       "organization": "SAP Learning",
       "date": "Sep 2026",
       "description": "Beginner-level course completion covering SAP Cloud ERP onboarding and implementation resources.",
-      "link": "/certificates/cloud-onboarding-sap-cloud-erp.pdf"
+      "link": "/certificates/cloud-onboarding-sap-cloud-erp.pdf",
+      "image": "/certificates/thumbnails/cloud-onboarding-sap-cloud-erp.jpg"
     },
     {
       "id": "sap-ai-fundamentals",
@@ -497,7 +498,8 @@
       "organization": "SAP Learning",
       "date": "Sep 2026",
       "description": "Beginner-level course covering foundational AI concepts, machine learning, deep learning and generative AI.",
-      "link": "/certificates/introducing-ai-fundamentals.pdf"
+      "link": "/certificates/introducing-ai-fundamentals.pdf",
+      "image": "/certificates/thumbnails/introducing-ai-fundamentals.jpg"
     },
     {
       "id": "sap-autonomous-finance",
@@ -505,7 +507,8 @@
       "organization": "SAP Learning",
       "date": "Sep 2026",
       "description": "Beginner-level course exploring SAP Autonomous Finance and agentic AI across finance operations.",
-      "link": "/certificates/discovering-autonomous-finance.pdf"
+      "link": "/certificates/discovering-autonomous-finance.pdf",
+      "image": "/certificates/thumbnails/discovering-autonomous-finance.jpg"
     },
     {
       "id": "sap-rise-methodology",
@@ -513,7 +516,8 @@
       "organization": "SAP Learning",
       "date": "Sep 2026",
       "description": "Beginner-level course covering RISE with SAP methodology phases and SAP Activate tools.",
-      "link": "/certificates/introducing-rise-with-sap-methodology.pdf"
+      "link": "/certificates/introducing-rise-with-sap-methodology.pdf",
+      "image": "/certificates/thumbnails/introducing-rise-with-sap-methodology.jpg"
     },
     {
       "id": "sap-autonomous-scm",
@@ -521,7 +525,8 @@
       "organization": "SAP Learning",
       "date": "Oct 2026",
       "description": "Beginner-level course introducing SAP Autonomous Supply Chain Management and agentic AI.",
-      "link": "/certificates/discovering-autonomous-supply-chain-management.pdf"
+      "link": "/certificates/discovering-autonomous-supply-chain-management.pdf",
+      "image": "/certificates/thumbnails/discovering-autonomous-supply-chain-management.jpg"
     },
     {
       "id": "sap-autonomous-scm-intermediate",
@@ -529,7 +534,8 @@
       "organization": "SAP Learning",
       "date": "Oct 2026",
       "description": "Intermediate-level course on Autonomous Supply Chain capabilities, business value and governance.",
-      "link": "/certificates/discovering-autonomous-scm-intermediate.pdf"
+      "link": "/certificates/discovering-autonomous-scm-intermediate.pdf",
+      "image": "/certificates/thumbnails/discovering-autonomous-scm-intermediate.jpg"
     },
     {
       "id": "sap-exploring-autonomous-finance",
@@ -537,7 +543,8 @@
       "organization": "SAP Learning",
       "date": "Oct 2026",
       "description": "Beginner-level course on the business value, capabilities and governance of Autonomous Finance.",
-      "link": "/certificates/exploring-autonomous-finance.pdf"
+      "link": "/certificates/exploring-autonomous-finance.pdf",
+      "image": "/certificates/thumbnails/exploring-autonomous-finance.jpg"
     },
     {
       "id": "sap-autonomous-hcm",
@@ -545,7 +552,8 @@
       "organization": "SAP Learning",
       "date": "Oct 2026",
       "description": "Beginner-level course exploring agentic AI across the employee lifecycle and HR functions.",
-      "link": "/certificates/discovering-autonomous-hcm.pdf"
+      "link": "/certificates/discovering-autonomous-hcm.pdf",
+      "image": "/certificates/thumbnails/discovering-autonomous-hcm.jpg"
     },
     {
       "id": "sap-autonomous-spend",
@@ -553,7 +561,8 @@
       "organization": "SAP Learning",
       "date": "Oct 2026",
       "description": "Beginner-level course exploring SAP Autonomous Spend and AI across the source-to-pay lifecycle.",
-      "link": "/certificates/discovering-autonomous-spend.pdf"
+      "link": "/certificates/discovering-autonomous-spend.pdf",
+      "image": "/certificates/thumbnails/discovering-autonomous-spend.jpg"
     },
     {
       "id": "sap-ariba-nextgen",
@@ -561,7 +570,8 @@
       "organization": "SAP Learning",
       "date": "Oct 2026",
       "description": "Beginner-level course on AI capabilities in sourcing project activities and SAP Ariba NextGen Sourcing.",
-      "link": "/certificates/introducing-sap-ariba-nextgen-sourcing.pdf"
+      "link": "/certificates/introducing-sap-ariba-nextgen-sourcing.pdf",
+      "image": "/certificates/thumbnails/introducing-sap-ariba-nextgen-sourcing.jpg"
     },
     {
       "id": "sap-cloud-erp-private",
@@ -569,7 +579,8 @@
       "organization": "SAP Learning",
       "date": "Oct 2026",
       "description": "Beginner-level course covering the customer onboarding journey for SAP Cloud ERP Private.",
-      "link": "/certificates/cloud-onboarding-sap-cloud-erp-private.pdf"
+      "link": "/certificates/cloud-onboarding-sap-cloud-erp-private.pdf",
+      "image": "/certificates/thumbnails/cloud-onboarding-sap-cloud-erp-private.jpg"
     },
     {
       "id": "apexplanet-internship",
@@ -577,7 +588,8 @@
       "organization": "ApexPlanet Software Pvt Ltd",
       "date": "Oct 2026",
       "description": "Successfully completed a 6-week, 2-day web development internship from 11 September to 25 October 2026.",
-      "link": "/certificates/apexplanet-web-development-internship.pdf"
+      "link": "/certificates/apexplanet-web-development-internship.pdf",
+      "image": "/certificates/thumbnails/apexplanet-web-development-internship.jpg"
     },
     {
       "id": "thiranex-internship",
@@ -585,7 +597,8 @@
       "organization": "Thiranex",
       "date": "Oct 2026",
       "description": "Successfully completed a web development internship from 20 September to 19 October 2026.",
-      "link": "/certificates/thiranex-web-development-internship.pdf"
+      "link": "/certificates/thiranex-web-development-internship.pdf",
+      "image": "/certificates/thumbnails/thiranex-web-development-internship.jpg"
     },
     {
       "id": "cisco-getting-started",
@@ -593,7 +606,8 @@
       "organization": "Cisco Networking Academy",
       "date": "Aug 2026",
       "description": "Course completion certificate issued on 29 August 2026.",
-      "link": "/certificates/cisco-getting-started-packet-tracer.pdf"
+      "link": "/certificates/cisco-getting-started-packet-tracer.pdf",
+      "image": "/certificates/thumbnails/cisco-getting-started-packet-tracer.jpg"
     },
     {
       "id": "cisco-exploring-networking",
@@ -601,7 +615,8 @@
       "organization": "Cisco Networking Academy",
       "date": "Aug 2026",
       "description": "Course completion certificate issued on 30 August 2026.",
-      "link": "/certificates/cisco-exploring-networking-packet-tracer.pdf"
+      "link": "/certificates/cisco-exploring-networking-packet-tracer.pdf",
+      "image": "/certificates/thumbnails/cisco-exploring-networking-packet-tracer.jpg"
     },
     {
       "id": "nptel-demystifying-networking",
@@ -609,7 +624,8 @@
       "organization": "NPTEL",
       "date": "Jul–Aug 2026",
       "description": "Four-week course completed with a score of 69%; 2 credits recommended.",
-      "link": "/certificates/nptel-demystifying-networking.pdf"
+      "link": "/certificates/nptel-demystifying-networking.pdf",
+      "image": "/certificates/thumbnails/nptel-demystifying-networking.jpg"
     },
     {
       "id": "smart-crop-publication",
@@ -617,7 +633,8 @@
       "organization": "IJARCCE",
       "date": "Nov 2026",
       "description": "Research paper publication certificate for “Smart Crop Recommendation System”, Volume 15, Issue 11, November 2026.",
-      "link": "/certificates/smart-crop-recommendation-publication.pdf"
+      "link": "/certificates/smart-crop-recommendation-publication.pdf",
+      "image": "/certificates/thumbnails/smart-crop-recommendation-publication.jpg"
     }
   ],
   "activities": [
