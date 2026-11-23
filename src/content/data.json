@@ -421,15 +421,6 @@
       "link": "/certificates/pdfs/wadhwani.pdf"
     },
     {
-      "id": "cisco-networking",
-      "title": "Exploring Networking & Getting Started with Cisco Packet Tracer",
-      "organization": "Cisco Networking Academy",
-      "date": "Aug 2026",
-      "description": "Two completed courses in the Cisco Networking Academy program covering Packet Tracer fundamentals.",
-      "image": "/certificates/exploring-network-with-cisco-packet-tracer.jpg",
-      "link": "/certificates/pdfs/exploring-network-with-cisco-packet-tracer.pdf"
-    },
-    {
       "id": "coursera-excel",
       "title": "Introduction to Microsoft Excel",
       "organization": "Coursera Project Network",
@@ -491,6 +482,142 @@
       "description": "Certificate related to IoT coursework/project work.",
       "image": "/certificates/iot-certificate.jpg",
       "link": "/certificates/pdfs/iot-certificate.pdf"
+    },
+    {
+      "id": "sap-cloud-erp",
+      "title": "Cloud Onboarding for SAP Cloud ERP",
+      "organization": "SAP Learning",
+      "date": "Sep 2026",
+      "description": "Beginner-level course completion covering SAP Cloud ERP onboarding and implementation resources.",
+      "link": "/certificates/cloud-onboarding-sap-cloud-erp.pdf"
+    },
+    {
+      "id": "sap-ai-fundamentals",
+      "title": "Introducing AI Fundamentals",
+      "organization": "SAP Learning",
+      "date": "Sep 2026",
+      "description": "Beginner-level course covering foundational AI concepts, machine learning, deep learning and generative AI.",
+      "link": "/certificates/introducing-ai-fundamentals.pdf"
+    },
+    {
+      "id": "sap-autonomous-finance",
+      "title": "Discovering Autonomous Finance",
+      "organization": "SAP Learning",
+      "date": "Sep 2026",
+      "description": "Beginner-level course exploring SAP Autonomous Finance and agentic AI across finance operations.",
+      "link": "/certificates/discovering-autonomous-finance.pdf"
+    },
+    {
+      "id": "sap-rise-methodology",
+      "title": "Introducing RISE with SAP Methodology for SAP Partners and Customers",
+      "organization": "SAP Learning",
+      "date": "Sep 2026",
+      "description": "Beginner-level course covering RISE with SAP methodology phases and SAP Activate tools.",
+      "link": "/certificates/introducing-rise-with-sap-methodology.pdf"
+    },
+    {
+      "id": "sap-autonomous-scm",
+      "title": "Discovering Autonomous Supply Chain Management",
+      "organization": "SAP Learning",
+      "date": "Oct 2026",
+      "description": "Beginner-level course introducing SAP Autonomous Supply Chain Management and agentic AI.",
+      "link": "/certificates/discovering-autonomous-supply-chain-management.pdf"
+    },
+    {
+      "id": "sap-autonomous-scm-intermediate",
+      "title": "Discovering Autonomous SCM — Intermediate Level",
+      "organization": "SAP Learning",
+      "date": "Oct 2026",
+      "description": "Intermediate-level course on Autonomous Supply Chain capabilities, business value and governance.",
+      "link": "/certificates/discovering-autonomous-scm-intermediate.pdf"
+    },
+    {
+      "id": "sap-exploring-autonomous-finance",
+      "title": "Exploring Autonomous Finance",
+      "organization": "SAP Learning",
+      "date": "Oct 2026",
+      "description": "Beginner-level course on the business value, capabilities and governance of Autonomous Finance.",
+      "link": "/certificates/exploring-autonomous-finance.pdf"
+    },
+    {
+      "id": "sap-autonomous-hcm",
+      "title": "Discovering Autonomous HCM",
+      "organization": "SAP Learning",
+      "date": "Oct 2026",
+      "description": "Beginner-level course exploring agentic AI across the employee lifecycle and HR functions.",
+      "link": "/certificates/discovering-autonomous-hcm.pdf"
+    },
+    {
+      "id": "sap-autonomous-spend",
+      "title": "Discovering Autonomous Spend",
+      "organization": "SAP Learning",
+      "date": "Oct 2026",
+      "description": "Beginner-level course exploring SAP Autonomous Spend and AI across the source-to-pay lifecycle.",
+      "link": "/certificates/discovering-autonomous-spend.pdf"
+    },
+    {
+      "id": "sap-ariba-nextgen",
+      "title": "Introducing SAP Ariba NextGen Sourcing",
+      "organization": "SAP Learning",
+      "date": "Oct 2026",
+      "description": "Beginner-level course on AI capabilities in sourcing project activities and SAP Ariba NextGen Sourcing.",
+      "link": "/certificates/introducing-sap-ariba-nextgen-sourcing.pdf"
+    },
+    {
+      "id": "sap-cloud-erp-private",
+      "title": "Cloud Onboarding for SAP Cloud ERP Private",
+      "organization": "SAP Learning",
+      "date": "Oct 2026",
+      "description": "Beginner-level course covering the customer onboarding journey for SAP Cloud ERP Private.",
+      "link": "/certificates/cloud-onboarding-sap-cloud-erp-private.pdf"
+    },
+    {
+      "id": "apexplanet-internship",
+      "title": "Web Development with HTML, CSS, and JavaScript",
+      "organization": "ApexPlanet Software Pvt Ltd",
+      "date": "Oct 2026",
+      "description": "Successfully completed a 6-week, 2-day web development internship from 11 September to 25 October 2026.",
+      "link": "/certificates/apexplanet-web-development-internship.pdf"
+    },
+    {
+      "id": "thiranex-internship",
+      "title": "Web Development Internship",
+      "organization": "Thiranex",
+      "date": "Oct 2026",
+      "description": "Successfully completed a web development internship from 20 September to 19 October 2026.",
+      "link": "/certificates/thiranex-web-development-internship.pdf"
+    },
+    {
+      "id": "cisco-getting-started",
+      "title": "Getting Started with Cisco Packet Tracer",
+      "organization": "Cisco Networking Academy",
+      "date": "Aug 2026",
+      "description": "Course completion certificate issued on 29 August 2026.",
+      "link": "/certificates/cisco-getting-started-packet-tracer.pdf"
+    },
+    {
+      "id": "cisco-exploring-networking",
+      "title": "Exploring Networking with Cisco Packet Tracer",
+      "organization": "Cisco Networking Academy",
+      "date": "Aug 2026",
+      "description": "Course completion certificate issued on 30 August 2026.",
+      "link": "/certificates/cisco-exploring-networking-packet-tracer.pdf"
+    },
+    {
+      "id": "nptel-demystifying-networking",
+      "title": "Demystifying Networking",
+      "organization": "NPTEL",
+      "date": "Jul–Aug 2026",
+      "description": "Four-week course completed with a score of 69%; 2 credits recommended.",
+      "link": "/certificates/nptel-demystifying-networking.pdf"
+    },
+    {
+      "id": "smart-crop-publication",
+      "title": "Smart Crop Recommendation System — Research Paper Publication",
+      "organization": "IJARCCE",
+      "date": "Nov 2026",
+      "description": "Research paper publication certificate for “Smart Crop Recommendation System”, Volume 15, Issue 11, November 2026.",
+      "link": "/certificates/smart-crop-recommendation-publication.pdf"
     }
   ],
   "activities": [
